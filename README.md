@@ -10,5 +10,6 @@ Bienvenue dans notre jeu inspiré de **Prince of Persia**, où vous incarnez le 
 - **S** : Reculer
 - **D** : Aller à droite
 - **Espace** : Sauter
+- **shift** : courir
 
 Partez à la découverte d’un monde où la mort n’est que le début de l'aventure ! Amusez-vous bien et préparez-vous à relever les défis du **Prince Mort**.
